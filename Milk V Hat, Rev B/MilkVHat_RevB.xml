@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/kelseypool/Documents/MilkV Hat/MilkVHat.kicad_sch</source>
+    <date>2024 December 03, Tuesday 11:24:23</date>
+    <tool>Eeschema 7.0.5-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MilkVHat</title>
+        <company>Zeroth</company>
+        <rev>A</rev>
+        <date>2024-11-07</date>
+        <source>MilkVHat.kicad_sch</source>
+        <comment number="1" value="Kelsey Pool"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10 uF</value>
+      <footprint>JLC Libraries:C1206</footprint>
+      <fields>
+        <field name="LCO">C77090</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCO" value="C77090"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d1616b-c675-4d49-b710-31889d0f2c45</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>JLC Libraries:C0805</footprint>
+      <fields>
+        <field name="LCO">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCO" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>915d0364-c533-46b7-a546-30c122cc9b70</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>JLC Libraries:C0603</footprint>
+      <fields>
+        <field name="LCO">C15849</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <property name="LCO" value="C15849"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31e65bbc-2694-42d5-9e74-f2a38cc0f3b8</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22 uF</value>
+      <footprint>JLC Libraries:C1206</footprint>
+      <fields>
+        <field name="LCO">C91604</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCO" value="C91604"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20bf69c0-5fc4-4706-9d16-a622b940d22c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22 uF</value>
+      <footprint>JLC Libraries:C1206</footprint>
+      <fields>
+        <field name="LCO">C91604</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCO" value="C91604"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da470872-2244-44e3-ab6b-b150c0323857</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>JLC Libraries:C0603</footprint>
+      <fields>
+        <field name="LCO">C15849</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <property name="LCO" value="C15849"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58e10a33-cd7f-478a-b5c3-5d27f4ac25ae</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>JLC Libraries:C1206</footprint>
+      <fields>
+        <field name="LCO">C77090</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <property name="LCO" value="C77090"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3301a27f-6fd2-42c9-8aec-1d8b178c4167</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>220pF</value>
+      <footprint>JLC Libraries:C0603</footprint>
+      <fields>
+        <field name="LCO">C1603</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <property name="LCO" value="C1603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f72cb2d-195b-414f-8dd0-44635d79650a</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>220pF</value>
+      <footprint>JLC Libraries:C0603</footprint>
+      <fields>
+        <field name="LCO">C1603</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <property name="LCO" value="C1603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79314ce5-3e58-4923-b302-85f87f572434</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>JLC Libraries:C0805</footprint>
+      <fields>
+        <field name="LCO">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCO" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73ae768a-ca68-4e3b-af75-6df5ee3cfb25</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>Ferrite</value>
+      <footprint>JLC Libraries:L0603</footprint>
+      <fields>
+        <field name="LCO">C79913</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_FERRITE_0805" description=""/>
+      <property name="LCO" value="C79913"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e735bbda-f41a-4b45-b164-3555ffa6132a</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>Ferrite</value>
+      <footprint>JLC Libraries:L0603</footprint>
+      <fields>
+        <field name="LCO">C79913</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_FERRITE_0805" description=""/>
+      <property name="LCO" value="C79913"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39138050-4263-4310-a16d-47168b16dee6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x13_Odd_Even</value>
+      <footprint>JLC Libraries:HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-1</footprint>
+      <fields>
+        <field name="LCO">C132127</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x13_Odd_Even" description="Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCO" value="C132127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>636b8c09-561f-4e52-ac79-e43b9d210ccc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x13_Odd_Even</value>
+      <footprint>JLC Libraries:HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-1</footprint>
+      <fields>
+        <field name="LCO">C132127</field>
+      </fields>
+      <libsource lib="" part="Conn_02x13_Odd_Even_1" description="Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCO" value="C132127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>872e2e55-942f-49bf-a7dd-5114c5d4027a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>B3B-PH-SM4-TB(LF)(SN)</value>
+      <footprint>JLC Libraries:CONN-SMD_B3B-PH-SM4-TBT-LF-SN</footprint>
+      <fields>
+        <field name="Field5">C265082</field>
+        <field name="LCO">C265082</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Socket" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="LCO" value="C265082"/>
+      <property name="Field5" value="C265082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd1ea96e-75a1-4b1a-9a12-8551333919df</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca6bb0f-ff32-48bb-b831-de2c3b12ff83</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>719b3680-bf2b-4fd3-93b3-b734dba12ea8</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6ad1987-df11-4e70-91dd-38b8cf00c80a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5c10f91-ec35-42fd-8d26-67975aee98ee</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e27d814c-e8ab-450a-866f-1c4cb4e16643</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>~</value>
+      <footprint>JLC Libraries:CONN-TH_22035035</footprint>
+      <fields>
+        <field name="LCO">C293315</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="LCO" value="C293315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31576018-abcc-404c-9138-7fbf60e18849</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x02</value>
+      <footprint>JLC Libraries:CONN-TH_B2B-PH-K-S</footprint>
+      <fields>
+        <field name="LCO">C131337</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCO" value="C131337"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa60985c-4312-4b63-991c-008d9eac732e</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>B3B-PH-SM4-TB(LF)(SN)</value>
+      <footprint>JLC Libraries:CONN-SMD_B3B-PH-SM4-TBT-LF-SN</footprint>
+      <fields>
+        <field name="LCO">C265082</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Socket" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="LCO" value="C265082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaa47e0a-b211-4738-9727-cacca62b0fe7</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x04_Pin</value>
+      <footprint>JLC Libraries:CONN-TH_B4B-PH-K-S</footprint>
+      <fields>
+        <field name="LCO">C131334</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="LCO" value="C131334"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6abcc61-ccce-41e0-a19f-596b2e9134df</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x04_Pin</value>
+      <footprint>JLC Libraries:CONN-TH_B4B-PH-K-S</footprint>
+      <fields>
+        <field name="LCO">C131334</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="LCO" value="C131334"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e65f2f69-dd3d-43ad-8e14-3edbde4d845c</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x04_Pin</value>
+      <footprint>JLC Libraries:CONN-TH_B4B-PH-K-S</footprint>
+      <fields>
+        <field name="LCO">C131334</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="LCO" value="C131334"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66e960ab-4a2e-4a76-bbe6-a4f7bbfbe648</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>3.3 u H</value>
+      <footprint>JLC Libraries:IND-SMD_L5.2-W5.2_IHLP2020CZER2R2M11</footprint>
+      <fields>
+        <field name="LCO">C553993</field>
+      </fields>
+      <libsource lib="BrightBlock_Components" part="L" description="Inductor"/>
+      <property name="LCO" value="C553993"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7ff4cd7-5801-4dc3-82b4-04ef77aef082</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>54.9k</value>
+      <footprint>JLC Libraries:R0603</footprint>
+      <fields>
+        <field name="LCO">C185321</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCO" value="C185321"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a325857-3887-4631-9c77-9b2c15253f11</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>JLC Libraries:R0201</footprint>
+      <fields>
+        <field name="LCO">C106225</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCO" value="C106225"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d130eca7-9194-4e71-a0ae-1a70194efa9f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>JLC Libraries:R1206</footprint>
+      <fields>
+        <field name="LCO">C1489</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_RESISTOR0805_NOOUTLINE" description=""/>
+      <property name="LCO" value="C1489"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ab389c3-3749-4868-9bfb-bdae9dce1081</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100</value>
+      <footprint>JLC Libraries:R1206</footprint>
+      <fields>
+        <field name="LCO">C17901</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_RESISTOR0805_NOOUTLINE" description=""/>
+      <property name="LCO" value="C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0418064-a4e7-4bef-b414-9480831fd26b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>JLC Libraries:R1206</footprint>
+      <fields>
+        <field name="LCO">C17901</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_RESISTOR0805_NOOUTLINE" description=""/>
+      <property name="LCO" value="C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcac5dc6-7642-423b-8d3f-7e1adc27e24c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS562201DDCR</value>
+      <footprint>JLC Libraries:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR</footprint>
+      <fields>
+        <field name="LCO">C90061</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.10 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="BrightBlock_Components" part="TPS562201DDCR" description=""/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.10 mm"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="LCO" value="C90061"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>701e70aa-097e-4914-92db-4cf09655ff4d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>PAM8302AASCR</value>
+      <footprint>JLC Libraries:MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL</footprint>
+      <fields>
+        <field name="LCO">C113367</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_AUDIOAMP_PAM8302A" description=""/>
+      <property name="LCO" value="C113367"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3784b9f-77ea-40b0-b5ed-13a1f3228bf8</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>10K trim</value>
+      <footprint>JLC Libraries:RES-ADJ-TH_3362P</footprint>
+      <fields>
+        <field name="LCO">C58159</field>
+      </fields>
+      <libsource lib="MilkVHat-eagle-import" part="microbuilder_TRIMPOT3303W/X" description=""/>
+      <property name="LCO" value="C58159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MilkVHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>854337d6-535e-4805-b7da-d08ed0620d58</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Conn_02x13_Odd_Even_1">
+      <description>Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">Conn_02x13_Odd_Even</field>
+        <field name="Footprint">JLC Libraries:HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BrightBlock_Components" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L 15 uH</field>
+        <field name="Footprint">BrightBlock_Components:PF0560.153NL</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BrightBlock_Components" part="TPS562201DDCR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS562201DDCR</field>
+        <field name="Footprint">TPS562201DDCR:SOT95P280X110-6N</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.10 mm</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="SW" type="bidirectional"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="VFB" type="input"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="VBST" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Socket">
+      <description>Generic connector, single row, 01x05, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x13_Odd_Even">
+      <description>Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x13_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MilkVHat-eagle-import" part="microbuilder_AUDIOAMP_PAM8302A">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">MilkVHat:MSOP8_0.65MM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="/SD" type="input"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="IN_P" type="input"/>
+        <pin num="4" name="IN_N" type="input"/>
+        <pin num="5" name="VO_P" type="output"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VO_N" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MilkVHat-eagle-import" part="microbuilder_CAP_CERAMIC0805-NOOUTLINE">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">MilkVHat:0805-NO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MilkVHat-eagle-import" part="microbuilder_FERRITE_0805">
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Footprint">MilkVHat:_0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="passive"/>
+        <pin num="2" name="P$2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MilkVHat-eagle-import" part="microbuilder_RESISTOR0805_NOOUTLINE">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">MilkVHat:0805-NO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MilkVHat-eagle-import" part="microbuilder_TRIMPOT3303W/X">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Footprint">MilkVHat:TRIMPOT_BOURNS_3303W</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BrightBlock_Components">
+      <uri>/Users/kelseypool/Documents/KiCad/7.0/symbols/BrightBlock_Components.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MilkVHat-eagle-import">
+      <uri>/Users/kelseypool/Documents/MilkV Hat/MilkVHat-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="4" name="/Audio_In_R">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="5" name="/Audio_Out_R">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="VR1" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="6" name="/SD">
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="/SD" pintype="input"/>
+    </net>
+    <net code="7" name="/SDA_I2C1">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="8" name="/SLC_I2C1">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="9" name="/ServoData1">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="10" name="/ServoData2">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="11" name="/UART2_RX">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="12" name="/UART2_TX">
+      <node ref="J1" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="13" name="/VO+">
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pinfunction="P$2" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="14" name="/VO-">
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="FB2" pin="2" pinfunction="P$2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="VR1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(FB1-P$1)">
+      <node ref="FB1" pin="1" pinfunction="P$1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VO_P" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(FB2-P$1)">
+      <node ref="FB2" pin="1" pinfunction="P$1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VO_N" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U1-SW)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(U1-VBST)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VBST" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U1-VFB)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VFB" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U2-IN_N)">
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="IN_N" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U2-IN_P)">
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="IN_P" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(VR1-S)">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="VR1" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(J1-Pin_1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(J1-Pin_4-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(J1-Pin_6-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(J1-Pin_7-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(J1-Pin_8-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="31" name="unconnected-(J1-Pin_9-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(J1-Pin_10-Pad10)">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(J1-Pin_11-Pad11)">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="34" name="unconnected-(J1-Pin_13-Pad13)">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="35" name="unconnected-(J1-Pin_15-Pad15)">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pin_17-Pad17)">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(J1-Pin_18-Pad18)">
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="38" name="unconnected-(J1-Pin_19-Pad19)">
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(J1-Pin_20-Pad20)">
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="40" name="unconnected-(J1-Pin_21-Pad21)">
+      <node ref="J1" pin="21" pinfunction="Pin_21" pintype="passive"/>
+    </net>
+    <net code="41" name="unconnected-(J1-Pin_22-Pad22)">
+      <node ref="J1" pin="22" pinfunction="Pin_22" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(J1-Pin_23-Pad23)">
+      <node ref="J1" pin="23" pinfunction="Pin_23" pintype="passive"/>
+    </net>
+    <net code="43" name="unconnected-(J1-Pin_25-Pad25)">
+      <node ref="J1" pin="25" pinfunction="Pin_25" pintype="passive"/>
+    </net>
+    <net code="44" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="45" name="unconnected-(J2-Pin_3-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="46" name="unconnected-(J2-Pin_4-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="47" name="unconnected-(J2-Pin_6-Pad6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="48" name="unconnected-(J2-Pin_7-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="49" name="unconnected-(J2-Pin_8-Pad8)">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(J2-Pin_9-Pad9)">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="51" name="unconnected-(J2-Pin_10-Pad10)">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="52" name="unconnected-(J2-Pin_11-Pad11)">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(J2-Pin_12-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="54" name="unconnected-(J2-Pin_13-Pad13)">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="55" name="unconnected-(J2-Pin_14-Pad14)">
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(J2-Pin_15-Pad15)">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    </net>
+    <net code="57" name="unconnected-(J2-Pin_16-Pad16)">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+    <net code="58" name="unconnected-(J2-Pin_17-Pad17)">
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+    </net>
+    <net code="59" name="unconnected-(J2-Pin_18-Pad18)">
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="60" name="unconnected-(J2-Pin_19-Pad19)">
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+    </net>
+    <net code="61" name="unconnected-(J2-Pin_20-Pad20)">
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="62" name="unconnected-(J2-Pin_22-Pad22)">
+      <node ref="J2" pin="22" pinfunction="Pin_22" pintype="passive"/>
+    </net>
+    <net code="63" name="unconnected-(J2-Pin_23-Pad23)">
+      <node ref="J2" pin="23" pinfunction="Pin_23" pintype="passive"/>
+    </net>
+    <net code="64" name="unconnected-(J2-Pin_24-Pad24)">
+      <node ref="J2" pin="24" pinfunction="Pin_24" pintype="passive"/>
+    </net>
+    <net code="65" name="unconnected-(J2-Pin_25-Pad25)">
+      <node ref="J2" pin="25" pinfunction="Pin_25" pintype="passive"/>
+    </net>
+    <net code="66" name="unconnected-(J2-Pin_26-Pad26)">
+      <node ref="J2" pin="26" pinfunction="Pin_26" pintype="passive"/>
+    </net>
+    <net code="67" name="unconnected-(U2-NC-Pad2)">
+      <node ref="U2" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
